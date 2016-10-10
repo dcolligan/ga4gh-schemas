@@ -1,10 +1,10 @@
 syntax = "proto3";
 
-package ga4gh;
+package ga4gh_client;
 
-import "ga4gh/common.proto";
-import "ga4gh/metadata.proto";
-import "ga4gh/genotype_phenotype.proto";
+import "ga4gh_client/common.proto";
+import "ga4gh_client/metadata.proto";
+import "ga4gh_client/genotype_phenotype.proto";
 import "elgoog/api/annotations.proto";
 
 /*

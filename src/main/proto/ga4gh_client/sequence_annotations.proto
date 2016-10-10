@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-package ga4gh;
+package ga4gh_client;
 
-import "ga4gh/common.proto";
-import "ga4gh/metadata.proto";
+import "ga4gh_client/common.proto";
+import "ga4gh_client/metadata.proto";
 import "google/protobuf/struct.proto";
 
 

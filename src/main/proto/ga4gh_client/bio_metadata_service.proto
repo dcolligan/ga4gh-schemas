@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-package ga4gh;
+package ga4gh_client;
 
-import "ga4gh/bio_metadata.proto";
+import "ga4gh_client/bio_metadata.proto";
 import "elgoog/api/annotations.proto";
 
 
